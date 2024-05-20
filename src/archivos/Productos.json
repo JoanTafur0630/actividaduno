@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "producto": "leche",
+        "codigo": "4815",
+        "lote": "415"
+    },
+    {
+        "id": "2",
+        "producto": "fab",
+        "codigo": "415105",
+        
+        "lote": "128596"
+    },
+	{
+        "id": "3",
+        "producto": "jugos",
+        "codigo": "74159",
+        
+        "lote": "3"
+    },
+	{
+        "id": "4",
+        "producto": "gaseosa",
+        "codigo": "154152",
+        "lote": "414141"
+    },
+	{
+        "id": "5",
+        "producto": "pan",
+        "codigo": "5555",
+        
+        "lote": "636363"
+    },
+	{
+        "id": "6",
+        "producto": "cerveza",
+        "codigo": "79514",
+        
+        "lote": "78787"
+    }
+]		

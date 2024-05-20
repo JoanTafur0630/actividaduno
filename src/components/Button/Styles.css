@@ -1,0 +1,22 @@
+/* styles.css */
+.btn-custom-buscar {
+    background-color: #3498db; /* Azul personalizado */
+    color: white;
+}
+
+.btn-custom-limpiar {
+    background-color: #e74c3c; /* Rojo personalizado */
+    color: white;
+}
+
+.btn-custom-nuevo {
+    background-color: #2ecc71; /* Verde personalizado */
+    color: white;
+}
+
+/* Cambiar el color del icono si es necesario */
+.btn-custom-buscar .la,
+.btn-custom-limpiar .la,
+.btn-custom-nuevo .la {
+    color: white;
+}

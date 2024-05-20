@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "producto": "pan",
+        "numfactura": "5416581",
+        "fecha": "5/09/2024",
+        "salida": "3333"
+    },
+    {
+        "id": "2",
+        "producto": "jabón",
+        "numfactura": "747474",
+        "fecha": "29/07/2024",
+        "salida": "3222"
+    },
+	{
+        "id": "3",
+        "producto": "gaseosa",
+        "numfactura": "7778",
+        "fecha": "2/12/2024",
+        "salida": "2145"
+    },
+	{
+        "id": "4",
+        "producto": "jugos",
+        "numfactura": "4512",
+        "fecha": "20/09/2024",
+        "salida": "3451"
+    },
+	{
+        "id": "5",
+        "producto": "leche",
+        "numfactura": "8965",
+        "fecha": "24/12/2024",
+        "salida": "3265"
+    },
+	{
+        "id": "6",
+        "producto": "cerveza",
+        "numfactura": "2451",
+        "fecha": "23/12/2024",
+        "salida": "9518"
+    },
+	{
+        "id": "7",
+        "producto": "dulces",
+        "numfactura": "4659",
+        "fecha": "2/11/2024",
+        "salida": "3"
+    }
+]
